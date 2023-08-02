@@ -1,6 +1,6 @@
 👋 Hello, fellow coders and curious minds! Welcome to my digital playground 🎮
 
-I'm a programming apprentice in my sophomore year of the coding adventure. 🚀 My code is a mix of meticulously crafted algorithms and the occasional sprinkling of spontaneous creativity. I believe in the magic of semicolons ✨ and the power of well-indented code.
+🚀 My code is a mix of meticulously crafted algorithms and the occasional sprinkling of spontaneous creativity. I believe in the magic of semicolons ✨ and the power of well-indented code.
 
 🔍 Exploring the realms of code is my passion, and I've embarked on a journey to unravel the mysteries of ones and zeros. From debugging escapades that could rival Sherlock Holmes, to crafting elegant solutions that make databases blush, I'm here to learn, share, and have a boatload of fun along the way.
 

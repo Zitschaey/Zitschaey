@@ -8,8 +8,6 @@
 
 🌌 Join me as I dive headfirst into the ever-evolving ocean of code, with a sense of humor in one hand and a keyboard in the other. Let's collaborate, innovate, and turn coffee into legendary code!
 
-📫 Feel free to drop me a line at your.email@example.com or connect with me on Twitter for a virtual coffee chat ☕. Let's turn bugs into features and dreams into pull requests!
-
 Remember, in the world of coding, the only limit is your imagination. And possibly your Wi-Fi signal. 📶
 
 Happy coding! 🚴‍♂️

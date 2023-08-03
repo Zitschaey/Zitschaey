@@ -1,51 +1,26 @@
-# Mein Entwicklerprofil
+[![MasterHead](https://www.kiwiqa.com/wp-content/uploads/2018/10/testing-banner1-min-1200x600.jpg)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Ceejay Vance</h1>
+<h3 align="center">An Upcoming Software Developer from Germany</h3>
 
-## Charakterklasse: Code-Zauberer 🧙‍♂️
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
-### Fähigkeiten
 
-#### 1. Java-Magie
-🔥 **Feuerball (Level 5)**
-Beherrsche die Kunst von Java, um mächtige Feuerbälle der Funktionalität zu wirken und komplexe Algorithmen zu entfesseln.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zitschaey&label=Profile%20views&color=0e75b6&style=flat" alt="zitschaey" /> </p>
 
-#### 2. Figma-Illusionen
-🎨 **Grafische Verzauberung (Level 4)**
-Erschaffe visuelle Meisterwerke mit Figma, indem du Benutzeroberflächen zauberst, die selbst die Götter beeindrucken würden.
+- 🔭 I’m currently working on **Unit & Integration Testing**
 
-#### 3. OOP-Schutzschild
-🛡️ **Objektorientierter Schutz (Level 6)**
-Rufe das mächtige Schild der Objektorientierten Programmierung herbei, um Daten zu schützen und Wartbarkeit zu gewährleisten.
+- 🌱 I’m currently learning **Contract Testing with Spring**
 
-#### 4. Git-Teleportation
-🌌 **Versionskontroll-Teleport (Level 3)**
-Beherrsche die Kunst der Git-Teleportation, um blitzschnell zwischen Codezweigen zu reisen und Konflikte zu minimieren.
+- 👯 I’m looking to collaborate on **Anything, feel free to hmu**
 
-#### 5. API-Beschwörung
-🌐 **API-Beherrschung (Level 5)**
-Beschwöre mächtige APIs herbei, um Daten aus fernen Welten zu beziehen und deine Anwendungen mit epischer Funktionalität zu verstärken.
+- ⚡ Fun fact **I am funny :)**
 
-### Ausrüstung
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ceejay-jordan-vance-680992259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceejay-jordan-vance-680992259" height="30" width="40" /></a>
+</p>
 
-🔮 Zauberstab der Eleganz - Verleiht Eleganz und Effizienz deinem Code.
-🧙‍♂️ Robe der Fehlersuche - Erhöht die Fähigkeit, Bugs aufzuspüren und zu beseitigen.
-💎 Amulett des Lernens - Ermöglicht schnelles Erlernen neuer Technologien.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-### Statistiken
-
-📊 **Intelligenz**: 90
-🛡️ **Zähigkeit**: 75
-🔥 **Magie**: 85
-🌟 **Glück**: 70
-
-## Quests
-
-🔸 Meistere das Geheimnis der Asynchronität in JavaScript.
-🔸 Erkunde die dunklen Verliese von Machine Learning und KI.
-🔸 Bezwing den Drachen der Code-Dokumentation und schreibe epische Dokumente.
-
-## Kontakt
-
-📧 Schicke eine Brieftaube für Kooperationsanfragen.
-🐦 Folge mir auf Twitter für Magie-infundierte Entwickler-Tweets.
-
-_"Möge der Code mit dir sein!"_ 🌌
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zitschaey&show_icons=true&locale=en" alt="zitschaey" /></p>

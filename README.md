@@ -1,4 +1,3 @@
-[![MasterHead](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ceejay Vance</h1>
 <h3 align="center">An Upcoming Software Developer from Germany</h3>
 

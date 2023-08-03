@@ -1,4 +1,4 @@
-[![MasterHead](https://www.kiwiqa.com/wp-content/uploads/2018/10/testing-banner1-min-1200x600.jpg)](https://rishavchanda.io)
+[![MasterHead]([https://www.kiwiqa.com/wp-content/uploads/2018/10/testing-banner1-min-1200x600.jpg](https://10pearls.com/wp-content/uploads/2022/01/Banner@3x-scaled.webp))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ceejay Vance</h1>
 <h3 align="center">An Upcoming Software Developer from Germany</h3>
 

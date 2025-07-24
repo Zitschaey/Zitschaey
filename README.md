@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ceejay Vance</h1>
-<h3 align="center">An Upcoming Software Developer from Germany</h3>
+<h1 align="center">Hi 👋, I'm Ceejay</h1>
 
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ImpressionableEagerIndiancow-max-1mb.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zitschaey&label=Profile%20views&color=0e75b6&style=flat" alt="zitschaey" /> </p>
-
-# Hi, I'm Ceejay! 👋
-
-Backend developer with a focus on Java and Quarkus.
-
-- 🌱 Currently learning: Functional Programming
-- 🚀 Latest project: OPC-Machine
 
 <h3 align="left">Reach me at: </h3>
 <p align="left"> <a href="https://linkedin.com/in/ceejay-jordan-vance-680992259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceejay-jordan-vance-680992259" height="30" width="40" /></a> </p>
